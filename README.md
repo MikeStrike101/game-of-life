@@ -1,4 +1,4 @@
-#Project made with React and Typescript
+### Project made with React and Typescript
 
 ## Available Scripts
 
